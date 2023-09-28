@@ -1,3 +1,3 @@
 # PruebaGit
 
-# Etiqueta 0.1
+* Etiqueta 0.1
